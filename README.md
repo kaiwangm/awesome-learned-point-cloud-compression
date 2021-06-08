@@ -28,6 +28,8 @@
 
 - [[NIPS](https://arxiv.org/abs/2011.07590)] MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models.
 
+- [[ICIP](https://ieeexplore.ieee.org/document/9191180)] Folding-Based Compression Of Point Cloud Attributes. [[Tensorflow](https://github.com/mauriceqch/pcc_attr_folding)]
+
 ### 2021
 
 - [[TCSVT](https://ieeexplore.ieee.org/document/9287077)] Lossy Point Cloud Geometry Compression via End-to-End Learning. [[Tensorflow](https://github.com/NJUVISION/PCGCv2)]
