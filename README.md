@@ -42,8 +42,17 @@
 
 - [[ICASPP](https://ieeexplore.ieee.org/document/9414763)] Learning-Based Lossless Compression of 3D Point Cloud Geometry. [[Tensorflow](https://github.com/Weafre/VoxelDNN)]
 
+## Non-Deep Learning Methods and Library
+
+- [[Draco](https://github.com/google/draco)] Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
+
+- [[MPEG V-PCC](https://github.com/MPEGGroup/mpeg-pcc-tmc2)] MPEG Video codec based point cloud compression (V-PCC) test model.
+
+- [[MPEG G-PCC](https://github.com/MPEGGroup/mpeg-pcc-tmc13)] MPEG Geometry based point cloud compression (G-PCC) test model.
+
 ## Datasets
 
 - [[KITTI](http://www.cvlibs.net/datasets/kitti/)] The KITTI Vision Benchmark Suite.
 
 - [[ShapeNet](https://shapenet.org/)] A collaborative dataset between researchers at Princeton, Stanford and TTIC.
+
