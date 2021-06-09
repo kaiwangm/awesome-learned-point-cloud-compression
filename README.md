@@ -60,3 +60,5 @@
 
 - [[ShapeNet](https://shapenet.org/)] A collaborative dataset between researchers at Princeton, Stanford and TTIC.
 
+- [[JPEG Pleno](http://plenodb.jpeg.org/)] JPEG Pleno Database.
+
