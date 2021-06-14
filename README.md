@@ -1,5 +1,10 @@
 #  awesome-deep-point-cloud-compression [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
+## Keywords
+
+__`lid.`__: LiDAR &emsp; 
+
 ## Papers
 
 ### 2017
@@ -53,6 +58,10 @@
 - [[CAS '18](https://ieeexplore.ieee.org/document/8571288)] Emerging MPEG Standards for Point Cloud Compression.
 
 - [[EG '06](https://dl.acm.org/doi/10.5555/2386388.2386404)] Octree-based point-cloud compression
+
+### 2020
+
+- [[IROS](https://ieeexplore.ieee.org/document/9341071)] [__`lid.`__ ] Real-Time Spatio-Temporal LiDAR Point Cloud Compression. [[C++ '1](https://github.com/yaoli1992/LiDAR-Point-Cloud-Compression)] [[C++ '2](https://github.com/horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression)]
 
 ## Datasets
 
