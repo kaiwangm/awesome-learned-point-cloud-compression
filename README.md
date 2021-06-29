@@ -47,6 +47,8 @@ __`lid.`__: LiDAR &emsp;
 
 - [[ICASPP](https://ieeexplore.ieee.org/document/9414763)] Learning-Based Lossless Compression of 3D Point Cloud Geometry. [[Tensorflow](https://github.com/Weafre/VoxelDNN)]
 
+- [[RAL-ICRA](https://ieeexplore.ieee.org/document/9354895)] Deep Compression for Dense Point Cloud Maps. [[Tensorflow](https://github.com/PRBonn/deep-point-map-compression)]
+
 ## Non-Deep Learning Methods and Library
 
 - [[Draco](https://github.com/google/draco)] Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
