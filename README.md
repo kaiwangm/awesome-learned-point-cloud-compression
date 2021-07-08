@@ -29,7 +29,7 @@ __`lid.`__: LiDAR &emsp;
 
 - [[MMSP](https://ieeexplore.ieee.org/document/9287077)] Improved Deep Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn_v2)]
 
-- [[CVPR](https://ieeexplore.ieee.org/document/9157381)] OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn_v2)]
+- [[CVPR](https://ieeexplore.ieee.org/document/9157381)] OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression.
 
 - [[NIPS](https://arxiv.org/abs/2011.07590)] MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models.
 
@@ -37,9 +37,9 @@ __`lid.`__: LiDAR &emsp;
 
 ### 2021
 
-- [[TCSVT](https://ieeexplore.ieee.org/document/9287077)] Lossy Point Cloud Geometry Compression via End-to-End Learning. [[Tensorflow](https://github.com/NJUVISION/PCGCv2)]
+- [[TCSVT](https://ieeexplore.ieee.org/document/9287077)] Lossy Point Cloud Geometry Compression via End-to-End Learning.
 
-- [[DCC](https://ieeexplore.ieee.org/document/9418789)] Multiscale Point Cloud Geometry Compression. [[Tensorflow](https://github.com/NJUVISION/PCGCv2)] [[Presentation](https://sigport.org/documents/multiscale-point-cloud-geometry-compression)] 
+- [[DCC](https://ieeexplore.ieee.org/document/9418789)] Multiscale Point Cloud Geometry Compression. [[Pytorch](https://github.com/NJUVISION/PCGCv2)] [[Presentation](https://sigport.org/documents/multiscale-point-cloud-geometry-compression)] 
 
 - [[DCC](https://ieeexplore.ieee.org/document/9418793)] Point AE-DCGAN: A deep learning model for 3D point cloud lossy geometry compression. [[Presentation](https://sigport.org/documents/point-ae-dcgan-deep-learning-model-3d-point-cloud-lossy-geometry-compression)]
 
