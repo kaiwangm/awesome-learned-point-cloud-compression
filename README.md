@@ -7,10 +7,6 @@ __`lid.`__: LiDAR &emsp;
 
 ## Papers
 
-### 2017
-
-- [[TOG](https://dl.acm.org/doi/10.1145/3072959.3073608)] O-CNN: octree-based convolutional neural networks for 3D shape analysis.
-
 ### 2018
 
 - [[MM](https://dl.acm.org/doi/10.1145/3240508.3240696)] Hybrid Point Cloud Attribute Compression Using Slice-based Layered Structure and Block-based Intra Prediction.
