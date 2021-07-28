@@ -4,6 +4,7 @@
 ## Keywords
 
 __`lid.`__: LiDAR &emsp; 
+__`vcon.`__: Voxel CNN &emsp; 
 
 ## Papers
 
@@ -15,15 +16,23 @@ __`lid.`__: LiDAR &emsp;
 
 - [[MM](https://dl.acm.org/doi/10.1145/3343031.3351061)] 3D Point Cloud Geometry Compression on Deep Learning.
 
-- [[ICIP](https://ieeexplore.ieee.org/document/8803413)] Learning Convolutional Transforms for Lossy Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn)]
+- [[ICIP](https://ieeexplore.ieee.org/document/8803413)] [__`vcon.`__ ] Learning Convolutional Transforms for Lossy Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn)]
 
 - [[ICRA](https://ieeexplore.ieee.org/document/8794264)] Point Cloud Compression for 3D LiDAR Sensor using Recurrent Neural Network with Residual Blocks. [[PyTorch](https://github.com/ChenxiTU/Point-cloud-compression-by-RNN)]
+
+- [[PCS](https://ieeexplore.ieee.org/document/8954537)] Point cloud coding: Adopting a deep learning-based approach. 
+
+- [[arXiv](https://arxiv.org/abs/1909.12037)] Learned point cloud geometry compression.
+
+- [[arXiv](https://arxiv.org/abs/1905.03691)] Deep autoencoder-based lossy geometry compression for point clouds.
+
+- [[CMM](https://dl.acm.org/doi/10.1145/3343031.3351061)] 3d point cloud geometry compression on deep learning.
 
 ### 2020
 
 - [[ICME](https://ieeexplore.ieee.org/document/9102866)] Lossy Geometry Compression Of 3d Point Cloud Data Via An Adaptive Octree-Guided Network. [[Tensorflow](https://github.com/wxz1996/pc_compress)]
 
-- [[MMSP](https://ieeexplore.ieee.org/document/9287077)] Improved Deep Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn_v2)]
+- [[MMSP](https://ieeexplore.ieee.org/document/9287077)] [__`vcon.`__ ] Improved Deep Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn_v2)]
 
 - [[CVPR](https://ieeexplore.ieee.org/document/9157381)] OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression.
 
@@ -35,7 +44,7 @@ __`lid.`__: LiDAR &emsp;
 
 - [[TCSVT](https://ieeexplore.ieee.org/document/9287077)] Lossy Point Cloud Geometry Compression via End-to-End Learning.
 
-- [[DCC](https://ieeexplore.ieee.org/document/9418789)] Multiscale Point Cloud Geometry Compression. [[Pytorch](https://github.com/NJUVISION/PCGCv2)] [[Presentation](https://sigport.org/documents/multiscale-point-cloud-geometry-compression)] 
+- [[DCC](https://ieeexplore.ieee.org/document/9418789)] [__`vcon.`__ ] Multiscale Point Cloud Geometry Compression. [[Pytorch](https://github.com/NJUVISION/PCGCv2)] [[Presentation](https://sigport.org/documents/multiscale-point-cloud-geometry-compression)] 
 
 - [[DCC](https://ieeexplore.ieee.org/document/9418793)] Point AE-DCGAN: A deep learning model for 3D point cloud lossy geometry compression. [[Presentation](https://sigport.org/documents/point-ae-dcgan-deep-learning-model-3d-point-cloud-lossy-geometry-compression)]
 
@@ -67,5 +76,6 @@ __`lid.`__: LiDAR &emsp;
 
 - [[ShapeNet](https://shapenet.org/)] A collaborative dataset between researchers at Princeton, Stanford and TTIC.
 
-- [[JPEG Pleno](http://plenodb.jpeg.org/)] JPEG Pleno Database.
+- [[ModelNet](https://modelnet.cs.princeton.edu/)] ModelNet Database.
 
+- [[JPEG Pleno](http://plenodb.jpeg.org/)] JPEG Pleno Database.
