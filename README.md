@@ -64,7 +64,7 @@ __`vcon.`__: Voxel CNN &emsp;
 
 - [[CAS '18](https://ieeexplore.ieee.org/document/8571288)] Emerging MPEG Standards for Point Cloud Compression.
 
-- [[EG '06](https://dl.acm.org/doi/10.5555/2386388.2386404)] Octree-based point-cloud compression
+- [[EG '06](https://dl.acm.org/doi/10.5555/2386388.2386404)] Octree-based point-cloud compression.
 
 ### 2020
 
