@@ -73,7 +73,11 @@ __`vcon.`__: Voxel CNN &emsp;
 ## Datasets
 
 - [[KITTI](http://www.cvlibs.net/datasets/kitti/)] The KITTI Vision Benchmark Suite.
+
 - [[ShapeNet](https://shapenet.org/)] A collaborative dataset between researchers at Princeton, Stanford and TTIC.
+
 - [[ModelNet](https://modelnet.cs.princeton.edu/)] ModelNet Database.
+
 - [[JPEG Pleno](http://plenodb.jpeg.org/)] JPEG Pleno Database.
-- [[MVUB](http://plenodb.jpeg.org/pc/microsoft/)] Microsoft Voxelized Upper Bodies dataset
+
+- [[MVUB](http://plenodb.jpeg.org/pc/microsoft/)] Microsoft Voxelized Upper Bodies dataset.
