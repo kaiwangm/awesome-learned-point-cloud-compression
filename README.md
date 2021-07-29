@@ -54,6 +54,8 @@ __`vcon.`__: Voxel CNN &emsp;
 
 - [[RAL-ICRA](https://ieeexplore.ieee.org/document/9354895)] Deep Compression for Dense Point Cloud Maps. [[Pytorch](https://github.com/PRBonn/deep-point-map-compression)]
 
+- [[arXiv](https://arxiv.org/abs/2104.09859)] Multiscale deep context modeling for lossless point cloud geometry compression. [[Pytorch](https://github.com/Weafre/MSVoxelDNN)]
+
 ## Non-Deep Learning Methods and Library
 
 - [[Draco](https://github.com/google/draco)] Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
