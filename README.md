@@ -7,8 +7,13 @@ __`lid.`__: LiDAR &emsp;
 __`vcon.`__: Voxel CNN &emsp; 
 __`oct.`__: Octree &emsp; 
 __`pnet.`__: PointNet &emsp; 
+__`dyn.`__: Dynamic 3D point cloud &emsp; 
 
 ## Papers
+
+### 2016
+
+- [[MM](https://ieeexplore.ieee.org/document/7405340)] [__`dyn.`__] Graph-based compression of dynamic 3D point cloud sequences
 
 ### 2018
 
@@ -27,6 +32,10 @@ __`pnet.`__: PointNet &emsp;
 - [[arXiv](https://arxiv.org/abs/1905.03691)] [__`pnet.`__] Deep autoencoder-based lossy geometry compression for point clouds.  [[Tensorflow](https://github.com/YanWei123/Deep-AutoEncoder-based-Lossy-Geometry-Compression-for-Point-Clouds)]
 
 - [[CMM](https://dl.acm.org/doi/10.1145/3343031.3351061)] [__`pnet.`__] 3d point cloud geometry compression on deep learning.
+
+- [[TIP](https://ieeexplore.ieee.org/document/8676054)] A Volumetric Approach to Point Cloud Compression—Part I: Attribute Compression.
+
+- [[TIP](https://ieeexplore.ieee.org/document/8931233)] A Volumetric Approach to Point Cloud Compression–Part II: Geometry Compression.
 
 ### 2020
 
@@ -67,6 +76,8 @@ __`pnet.`__: PointNet &emsp;
 - [[CAS '18](https://ieeexplore.ieee.org/document/8571288)] Emerging MPEG Standards for Point Cloud Compression.
 
 - [[EG '06](https://dl.acm.org/doi/10.5555/2386388.2386404)] Octree-based point-cloud compression.
+
+- [[ICRA '12](https://ieeexplore.ieee.org/document/6224647)] Real-time compression of point cloud streams.
 
 ### 2020
 
