@@ -57,7 +57,7 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[DCC](https://ieeexplore.ieee.org/document/9418793)] Point AE-DCGAN: A deep learning model for 3D point cloud lossy geometry compression. [[Presentation](https://sigport.org/documents/point-ae-dcgan-deep-learning-model-3d-point-cloud-lossy-geometry-compression)]
 
-- [[CVPR](https://arxiv.org/abs/2105.02158)] [__`oct.`__] [__`lid.`__] VoxelContext-Net: An Octree based Framework for Point Cloud Compression. 
+- [[CVPR](https://arxiv.org/abs/2105.02158)] [__`oct.`__] [__`lid.`__] [__`dyn.`__] VoxelContext-Net: An Octree based Framework for Point Cloud Compression. 
 
 - [[ICASPP](https://ieeexplore.ieee.org/document/9414763)] Learning-Based Lossless Compression of 3D Point Cloud Geometry. [[Tensorflow](https://github.com/Weafre/VoxelDNN)]
 
@@ -77,7 +77,7 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[EG '06](https://dl.acm.org/doi/10.5555/2386388.2386404)] Octree-based point-cloud compression.
 
-- [[ICRA '12](https://ieeexplore.ieee.org/document/6224647)] Real-time compression of point cloud streams.
+- [[ICRA '12](https://ieeexplore.ieee.org/document/6224647)] [__`dyn.`__] Real-time compression of point cloud streams.
 
 ### 2020
 
