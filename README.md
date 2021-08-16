@@ -19,6 +19,8 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[MM](https://dl.acm.org/doi/10.1145/3240508.3240696)] Hybrid Point Cloud Attribute Compression Using Slice-based Layered Structure and Block-based Intra Prediction.
 
+- [[ICIP](https://ieeexplore.ieee.org/document/8451802)] [__`oct.`__] Intra-Frame Context-Based Octree Coding for Point-Cloud Geometry.
+
 ### 2019
 
 - [[ICIP](https://ieeexplore.ieee.org/document/8803413)] [__`vcon.`__] Learning Convolutional Transforms for Lossy Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn)]
