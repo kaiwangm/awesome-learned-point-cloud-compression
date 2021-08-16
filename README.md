@@ -13,13 +13,11 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 ### 2016
 
-- [[MM](https://ieeexplore.ieee.org/document/7405340)] [__`dyn.`__] Graph-based compression of dynamic 3D point cloud sequences
+- [[MM](https://ieeexplore.ieee.org/document/7405340)] [__`dyn.`__] Graph-based compression of dynamic 3D point cloud sequences.
 
 ### 2018
 
 - [[MM](https://dl.acm.org/doi/10.1145/3240508.3240696)] Hybrid Point Cloud Attribute Compression Using Slice-based Layered Structure and Block-based Intra Prediction.
-
-- [[ICIP](https://ieeexplore.ieee.org/document/8451802)] [__`oct.`__] Intra-Frame Context-Based Octree Coding for Point-Cloud Geometry.
 
 ### 2019
 
@@ -67,6 +65,7 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[arXiv](https://arxiv.org/abs/2104.09859)] Multiscale deep context modeling for lossless point cloud geometry compression. [[Pytorch](https://github.com/Weafre/MSVoxelDNN)]
 
+
 ## Non-Deep Learning Methods and Library
 
 - [[Draco](https://github.com/google/draco)] Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
@@ -80,6 +79,14 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 - [[EG '06](https://dl.acm.org/doi/10.5555/2386388.2386404)] Octree-based point-cloud compression.
 
 - [[ICRA '12](https://ieeexplore.ieee.org/document/6224647)] [__`dyn.`__] Real-time compression of point cloud streams.
+
+### 2016
+
+- [[MM](https://ieeexplore.ieee.org/document/7482691)] [__`dyn.`__] Compression of 3D Point Clouds Using a Region-Adaptive Hierarchical Transform.
+
+### 2018
+
+- [[ICIP](https://ieeexplore.ieee.org/document/8451802)] [__`oct.`__] Intra-Frame Context-Based Octree Coding for Point-Cloud Geometry.
 
 ### 2020
 
