@@ -92,6 +92,11 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[IROS](https://ieeexplore.ieee.org/document/9341071)] [__`lid.`__] Real-Time Spatio-Temporal LiDAR Point Cloud Compression. [[C++ '1](https://github.com/yaoli1992/LiDAR-Point-Cloud-Compression)] [[C++ '2](https://github.com/horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression)]
 
+### 2021
+
+- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9503405)] Lossy Point Cloud Geometry Compression via Region-wise Processing
+
+
 ## Datasets
 
 - [[KITTI](http://www.cvlibs.net/datasets/kitti/)] The KITTI Vision Benchmark Suite.
