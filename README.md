@@ -65,6 +65,8 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[arXiv](https://arxiv.org/abs/2104.09859)] Multiscale deep context modeling for lossless point cloud geometry compression. [[Pytorch](https://github.com/Weafre/MSVoxelDNN)]
 
+- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9496667)] Lossless Coding of Point Cloud Geometry using a Deep Generative Model.
+
 
 ## Non-Deep Learning Methods and Library
 
@@ -94,7 +96,7 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 ### 2021
 
-- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9503405)] Lossy Point Cloud Geometry Compression via Region-wise Processing
+- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9503405)] Lossy Point Cloud Geometry Compression via Region-wise Processing.
 
 
 ## Datasets
