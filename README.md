@@ -6,7 +6,7 @@
 __`lid.`__: LiDAR &emsp; 
 __`vcon.`__: Voxel CNN &emsp; 
 __`oct.`__: Octree &emsp; 
-__`pnet.`__: PointNet &emsp; 
+__`pnet.`__: PointBase-Net &emsp; 
 __`dyn.`__: Dynamic 3D point cloud &emsp; 
 
 ## Papers
@@ -66,6 +66,8 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 - [[arXiv](https://arxiv.org/abs/2104.09859)] Multiscale deep context modeling for lossless point cloud geometry compression. [[Pytorch](https://github.com/Weafre/MSVoxelDNN)]
 
 - [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9496667)] Lossless Coding of Point Cloud Geometry using a Deep Generative Model.
+
+- [[ICIP](https://ieeexplore.ieee.org/document/9506631)] Point Cloud Geometry Compression Via Neural Graph Sampling
 
 
 ## Non-Deep Learning Methods and Library
