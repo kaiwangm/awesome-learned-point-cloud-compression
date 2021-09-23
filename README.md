@@ -67,7 +67,7 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9496667)] Lossless Coding of Point Cloud Geometry using a Deep Generative Model.
 
-- [[ICIP](https://ieeexplore.ieee.org/document/9506631)] Point Cloud Geometry Compression Via Neural Graph Sampling
+- [[ICIP](https://ieeexplore.ieee.org/document/9506631)] Point Cloud Geometry Compression Via Neural Graph Sampling.
 
 
 ## Non-Deep Learning Methods and Library
