@@ -1,5 +1,6 @@
 #  awesome-deep-point-cloud-compression [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+You will be very welcome to make PR and contribute!! 😄
 
 ## Keywords
 
