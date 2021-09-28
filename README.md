@@ -52,7 +52,7 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 ### 2021
 
-- [[TCSVT](https://ieeexplore.ieee.org/document/9287077)] Lossy Point Cloud Geometry Compression via End-to-End Learning.
+- [[TCSVT](https://ieeexplore.ieee.org/document/9321375)] Lossy Point Cloud Geometry Compression via End-to-End Learning.
 
 - [[DCC](https://ieeexplore.ieee.org/document/9418789)] [__`vcon.`__] Multiscale Point Cloud Geometry Compression. [[Pytorch](https://github.com/NJUVISION/PCGCv2)] [[Presentation](https://sigport.org/documents/multiscale-point-cloud-geometry-compression)] 
 
