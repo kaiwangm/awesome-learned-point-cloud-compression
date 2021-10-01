@@ -54,8 +54,8 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[TCSVT](https://ieeexplore.ieee.org/document/9321375)] Lossy Point Cloud Geometry Compression via End-to-End Learning.
 
-- [[DCC](https://ieeexplore.ieee.org/document/9418789)] [__`vcon.`__] Multiscale Point Cloud Geometry Compression. [[Pytorch](https://github.com/NJUVISION/PCGCv2)] [[Presentation](https://sigport.org/documents/multiscale-point-cloud-geometry-compression)] 
-
+- [[DCC](https://ieeexplore.ieee.org/document/9418789)] [__`vcon.`__] Multiscale Point Cloud Geometry Compression. [[Pytorch](https://github.com/NJUVISION/PCGCv2)] [[Presentation](https://sigport.org/documents/multiscale-point-cloud-geometry-compression)]
+   
 - [[DCC](https://ieeexplore.ieee.org/document/9418793)] Point AE-DCGAN: A deep learning model for 3D point cloud lossy geometry compression. [[Presentation](https://sigport.org/documents/point-ae-dcgan-deep-learning-model-3d-point-cloud-lossy-geometry-compression)]
 
 - [[CVPR](https://arxiv.org/abs/2105.02158)] [__`oct.`__] [__`lid.`__] [__`dyn.`__] VoxelContext-Net: An Octree based Framework for Point Cloud Compression. 
@@ -66,8 +66,8 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[arXiv](https://arxiv.org/abs/2104.09859)] Multiscale deep context modeling for lossless point cloud geometry compression. [[Pytorch](https://github.com/Weafre/MSVoxelDNN)]
 
-- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9496667)] Lossless Coding of Point Cloud Geometry using a Deep Generative Model.
-
+- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9496667)] Lossless Coding of Point Cloud Geometry using a Deep Generative Model.[[Tensorflow](https://github.com/Weafre/VoxelDNN_v2)]
+  
 - [[ICIP](https://ieeexplore.ieee.org/document/9506631)] Point Cloud Geometry Compression Via Neural Graph Sampling.
 
 
