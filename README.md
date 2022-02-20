@@ -66,9 +66,13 @@ __`dyn.`__: Dynamic 3D point cloud &emsp;
 
 - [[arXiv](https://arxiv.org/abs/2104.09859)] Multiscale deep context modeling for lossless point cloud geometry compression. [[Pytorch](https://github.com/Weafre/MSVoxelDNN)]
 
-- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9496667)] Lossless Coding of Point Cloud Geometry using a Deep Generative Model.[[Tensorflow](https://github.com/Weafre/VoxelDNN_v2)]
+- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9496667)] Lossless Coding of Point Cloud Geometry using a Deep Generative Model. [[Tensorflow](https://github.com/Weafre/VoxelDNN_v2)]
   
 - [[ICIP](https://ieeexplore.ieee.org/document/9506631)] Point Cloud Geometry Compression Via Neural Graph Sampling.
+
+### 2022
+
+- [[AAAI](https://arxiv.org/abs/2202.06028)] OctAttention: Octree-based Large-scale Context Model for Point Cloud Compression. [[Pytorch](https://github.com/zb12138/OctAttention)]
 
 
 ## Non-Deep Learning Methods and Library
