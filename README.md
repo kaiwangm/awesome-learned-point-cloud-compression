@@ -74,7 +74,7 @@ You will be very welcome to make PR and contribute!
 
 - [[Draco](https://github.com/google/draco)] Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 
-- [[MPEG V-PCC](https://github.com/MPEGGroup/mpeg-pcc-tmc2)] MPEG Video codec based point cloud compression (V-PCC) test model(tmc2).
+- [[MPEG V-PCC](https://github.com/MPEGGroup/mpeg-pcc-tmc2)] MPEG Video codec based point cloud compression (V-PCC) test model (tmc2).
 
 - [[MPEG G-PCC](https://github.com/MPEGGroup/mpeg-pcc-tmc13)] MPEG Geometry based point cloud compression (G-PCC) test model (tmc13).
 
