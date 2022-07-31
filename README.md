@@ -5,43 +5,13 @@
 
 ## Papers
 
-### 2016
+### 2022
 
-- [[MM](https://ieeexplore.ieee.org/document/7405340)] Graph-based compression of dynamic 3D point cloud sequences.
+- [[AAAI](https://arxiv.org/abs/2202.06028)] OctAttention: Octree-based Large-scale Context Model for Point Cloud Compression. [[Pytorch](https://github.com/zb12138/OctAttention)]
 
-### 2018
+- [[CVPR](http://arxiv.org/abs/2204.12684)] Density-preserving Deep Point Cloud Compression. [[Pytorch](https://github.com/yunhe20/D-PCC)]
 
-- [[MM](https://dl.acm.org/doi/10.1145/3240508.3240696)] Hybrid Point Cloud Attribute Compression Using Slice-based Layered Structure and Block-based Intra Prediction.
-
-### 2019
-
-- [[ICIP](https://ieeexplore.ieee.org/document/8803413)] Learning Convolutional Transforms for Lossy Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn)]
-
-- [[ICRA](https://ieeexplore.ieee.org/document/8794264)] Point Cloud Compression for 3D LiDAR Sensor using Recurrent Neural Network with Residual Blocks. [[PyTorch](https://github.com/ChenxiTU/Point-cloud-compression-by-RNN)]
-
-- [[PCS](https://ieeexplore.ieee.org/document/8954537)] Point cloud coding: Adopting a deep learning-based approach. 
-
-- [[arXiv](https://arxiv.org/abs/1909.12037)] Learned point cloud geometry compression.
-
-- [[arXiv](https://arxiv.org/abs/1905.03691)] Deep autoencoder-based lossy geometry compression for point clouds.  [[Tensorflow](https://github.com/YanWei123/Deep-AutoEncoder-based-Lossy-Geometry-Compression-for-Point-Clouds)]
-
-- [[CMM](https://dl.acm.org/doi/10.1145/3343031.3351061)] 3d point cloud geometry compression on deep learning.
-
-- [[TIP](https://ieeexplore.ieee.org/document/8676054)] A Volumetric Approach to Point Cloud Compression—Part I: Attribute Compression.
-
-- [[TIP](https://ieeexplore.ieee.org/document/8931233)] A Volumetric Approach to Point Cloud Compression–Part II: Geometry Compression.
-
-### 2020
-
-- [[ICME](https://ieeexplore.ieee.org/document/9102866)] Lossy Geometry Compression Of 3d Point Cloud Data Via An Adaptive Octree-Guided Network. [[Tensorflow](https://github.com/wxz1996/pc_compress)]
-
-- [[MMSP](https://ieeexplore.ieee.org/document/9287077)] Improved Deep Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn_v2)]
-
-- [[CVPR](https://ieeexplore.ieee.org/document/9157381)] OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression.
-
-- [[NIPS](https://arxiv.org/abs/2011.07590)] MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models.
-
-- [[ICIP](https://ieeexplore.ieee.org/document/9191180)] Folding-Based Compression Of Point Cloud Attributes. [[Tensorflow](https://github.com/mauriceqch/pcc_attr_folding)]
+- [[ICMR](https://dl.acm.org/doi/abs/10.1145/3512527.3531423)] TransPCC: Towards Deep Point Cloud Compression via Transformers. [[Pytorch](https://github.com/jokieleung/TransPCC)]
 
 ### 2021
 
@@ -63,9 +33,45 @@
   
 - [[ICIP](https://ieeexplore.ieee.org/document/9506631)] Point Cloud Geometry Compression Via Neural Graph Sampling.
 
-### 2022
+### 2020
 
-- [[AAAI](https://arxiv.org/abs/2202.06028)] OctAttention: Octree-based Large-scale Context Model for Point Cloud Compression. [[Pytorch](https://github.com/zb12138/OctAttention)]
+- [[ICME](https://ieeexplore.ieee.org/document/9102866)] Lossy Geometry Compression Of 3d Point Cloud Data Via An Adaptive Octree-Guided Network. [[Tensorflow](https://github.com/wxz1996/pc_compress)]
+
+- [[MMSP](https://ieeexplore.ieee.org/document/9287077)] Improved Deep Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn_v2)]
+
+- [[CVPR](https://ieeexplore.ieee.org/document/9157381)] OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression.
+
+- [[NIPS](https://arxiv.org/abs/2011.07590)] MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models.
+
+- [[ICIP](https://ieeexplore.ieee.org/document/9191180)] Folding-Based Compression Of Point Cloud Attributes. [[Tensorflow](https://github.com/mauriceqch/pcc_attr_folding)]
+
+- [[ICIP](https://ieeexplore.ieee.org/document/9190647)] A Syndrome-Based Autoencoder For Point Cloud Geometry Compression.
+
+### 2019
+
+- [[ICIP](https://ieeexplore.ieee.org/document/8803413)] Learning Convolutional Transforms for Lossy Point Cloud Geometry Compression. [[Tensorflow](https://github.com/mauriceqch/pcc_geo_cnn)]
+
+- [[ICRA](https://ieeexplore.ieee.org/document/8794264)] Point Cloud Compression for 3D LiDAR Sensor using Recurrent Neural Network with Residual Blocks. [[PyTorch](https://github.com/ChenxiTU/Point-cloud-compression-by-RNN)]
+
+- [[PCS](https://ieeexplore.ieee.org/document/8954537)] Point cloud coding: Adopting a deep learning-based approach. 
+
+- [[arXiv](https://arxiv.org/abs/1909.12037)] Learned point cloud geometry compression.
+
+- [[arXiv](https://arxiv.org/abs/1905.03691)] Deep autoencoder-based lossy geometry compression for point clouds.  [[Tensorflow](https://github.com/YanWei123/Deep-AutoEncoder-based-Lossy-Geometry-Compression-for-Point-Clouds)]
+
+- [[CMM](https://dl.acm.org/doi/10.1145/3343031.3351061)] 3d point cloud geometry compression on deep learning.
+
+- [[TIP](https://ieeexplore.ieee.org/document/8676054)] A Volumetric Approach to Point Cloud Compression—Part I: Attribute Compression.
+
+- [[TIP](https://ieeexplore.ieee.org/document/8931233)] A Volumetric Approach to Point Cloud Compression–Part II: Geometry Compression.
+
+### 2018
+
+- [[MM](https://dl.acm.org/doi/10.1145/3240508.3240696)] Hybrid Point Cloud Attribute Compression Using Slice-based Layered Structure and Block-based Intra Prediction.
+
+### 2016
+
+- [[MM](https://ieeexplore.ieee.org/document/7405340)] Graph-based compression of dynamic 3D point cloud sequences.
 
 
 ## Non-Deep Learning Methods and Library
