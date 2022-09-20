@@ -7,9 +7,13 @@
 
 ### 2022
 
+- [[APCCPA](https://arxiv.org/abs/2209.04401)] GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression. [[Pytorch](https://github.com/InterDigitalInc/GRASP-Net)]
+
 - [[AAAI](https://arxiv.org/abs/2202.06028)] OctAttention: Octree-based Large-scale Context Model for Point Cloud Compression. [[Pytorch](https://github.com/zb12138/OctAttention)]
 
 - [[CVPR](http://arxiv.org/abs/2204.12684)] Density-preserving Deep Point Cloud Compression. [[Pytorch](https://github.com/yunhe20/D-PCC)]
+
+- [[CVPR](https://arxiv.org/abs/2203.09931)] 3DAC: Learning Attribute Compression for Point Clouds. [[Pytorch](https://github.com/fatPeter/ThreeDAC)]
 
 - [[ICMR](https://dl.acm.org/doi/abs/10.1145/3512527.3531423)] TransPCC: Towards Deep Point Cloud Compression via Transformers. [[Pytorch](https://github.com/jokieleung/TransPCC)]
 
