@@ -7,6 +7,16 @@
 
 ### 2022
 
+- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9852261)] Isolated Points Prediction via Deep Neural Network on Point Cloud Lossless Geometry Compression.
+
+- [[ARXIV](https://arxiv.org/abs/2208.12573)] Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention
+
+- [[ARXIV](https://arxiv.org/abs/2208.02519)] IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression.
+
+- [[ICME](https://ieeexplore.ieee.org/abstract/document/9859853)] TDRNet: Transformer-Based Dual-Branch Restoration Network for Geometry Based Point Cloud Compression Artifacts.
+
+- [[ECCV](https://arxiv.org/abs/2205.00760)] Point Cloud Compression with Sibling Context and Surface Priors. [[Pytorch](https://github.com/zlichen/PCC-S)]
+
 - [[APCCPA](https://arxiv.org/abs/2209.04401)] GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression. [[Pytorch](https://github.com/InterDigitalInc/GRASP-Net)]
 
 - [[AAAI](https://arxiv.org/abs/2202.06028)] OctAttention: Octree-based Large-scale Context Model for Point Cloud Compression. [[Pytorch](https://github.com/zb12138/OctAttention)]
@@ -18,6 +28,8 @@
 - [[ICMR](https://dl.acm.org/doi/abs/10.1145/3512527.3531423)] TransPCC: Towards Deep Point Cloud Compression via Transformers. [[Pytorch](https://github.com/jokieleung/TransPCC)]
 
 ### 2021
+
+- [[MM Asia](https://dl.acm.org/doi/abs/10.1145/3469877.3490611)] Patch-Based Deep Autoencoder for Point Cloud Geometry Compression. [[Pytorch](https://github.com/I2-Multimedia-Lab/PCC_Patch)]
 
 - [[TCSVT](https://ieeexplore.ieee.org/document/9321375)] Lossy Point Cloud Geometry Compression via End-to-End Learning.
 
