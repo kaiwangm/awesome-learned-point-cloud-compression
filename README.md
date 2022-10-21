@@ -27,6 +27,8 @@
 
 - [[ICMR](https://dl.acm.org/doi/abs/10.1145/3512527.3531423)] TransPCC: Towards Deep Point Cloud Compression via Transformers. [[Pytorch](https://github.com/jokieleung/TransPCC)]
 
+- [[APCCPA](https://dl.acm.org/doi/abs/10.1145/3552457.3555731)] Transformer and Upsampling-Based Point Cloud Compression. [[Pytorch](https://github.com/arsx958/PCT_PCC)]
+
 ### 2021
 
 - [[MM Asia](https://dl.acm.org/doi/abs/10.1145/3469877.3490611)] Patch-Based Deep Autoencoder for Point Cloud Geometry Compression. [[Pytorch](https://github.com/I2-Multimedia-Lab/PCC_Patch)]
