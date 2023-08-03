@@ -11,7 +11,7 @@
 
 - [[ARXIV](https://arxiv.org/abs/2208.12573)] Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention
 
-- [[ARXIV](https://arxiv.org/abs/2208.02519)] IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression.
+- [[ARXIV](https://arxiv.org/abs/2208.02519)] IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression. [[Pytorch](https://github.com/I2-Multimedia-Lab/IPDAE)]
 
 - [[ICME](https://ieeexplore.ieee.org/abstract/document/9859853)] TDRNet: Transformer-Based Dual-Branch Restoration Network for Geometry Based Point Cloud Compression Artifacts.
 
