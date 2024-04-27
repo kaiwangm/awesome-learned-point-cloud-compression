@@ -59,19 +59,17 @@
 
 [[TIP](https://ieeexplore.ieee.org/document/10234082)]Near-Lossless Compression of Point Cloud Attribute Using Quantization Parameter Cascading and Rate-Distortion Optimization.
 
-[[TPAMI](https://ieeexplore.ieee.org/document/10301698)]3-D Point Cloud Attribute Compression With -Laplacian Embedding Graph Dictionary.
+[[TPAMI](https://ieeexplore.ieee.org/document/10301698)]3-D Point Cloud Attribute Compression With -Laplacian Embedding Graph Dictionary Learning.
 
-Learning
+[[TVCG](https://ieeexplore.ieee.org/document/10328911)]GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling. [[Pytorch](https://github.com/3dpcc/GRNet)]
 
-[[TVCG](https://ieeexplore.ieee.org/document/10328911)]GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling[[Pytorch](https://github.com/3dpcc/GRNet)]
+[[CVM](https://arxiv.org/abs/2209.08276)]ARNet: Compression Artifact Reduction for Point Cloud Attribute. [[Pytorch](https://github.com/3dpcc/ARNet)]
 
-[[CVM](https://arxiv.org/abs/2209.08276)]ARNet: Compression Artifact Reduction for Point Cloud Attribute [[Pytorch](https://github.com/3dpcc/ARNet)]
+[[TMM](https://ieeexplore.ieee.org/document/10313579)]ScalablePCAC: Scalable Point Cloud Attribute Compression.
 
-[[TMM](https://ieeexplore.ieee.org/document/10313579)]ScalablePCAC: Scalable Point Cloud Attribute Compression
+[[ACM MM](https://dl.acm.org/doi/10.1145/3581783.3613847)]YOGA: Yet Another Geometry-based Point Cloud Compressor. [[Pytorch](https://github.com/3dpcc/YOGAv1)]
 
-[[ACM MM](https://dl.acm.org/doi/10.1145/3581783.3613847)]YOGA: Yet Another Geometry-based Point Cloud Compressor[[Pytorch](https://github.com/3dpcc/YOGAv1)]
-
-[[unpublished](https://3dpcc.github.io/publication/YOGAv2/)]YOGAv2: A Layered Point Cloud Compressor
+[[unpublished](https://3dpcc.github.io/publication/YOGAv2/)]YOGAv2: A Layered Point Cloud Compressor.
 
 ### 2022
 
