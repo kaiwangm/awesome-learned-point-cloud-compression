@@ -63,7 +63,7 @@
 
 Learning
 
-[[TVCG](https://ieeexplore.ieee.org/document/10328911)]GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling[[Pytorch]([3dpcc/GRNet (github.com)](https://github.com/3dpcc/GRNet))]
+[[TVCG](https://ieeexplore.ieee.org/document/10328911)]GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling[[Pytorch](https://github.com/3dpcc/GRNet)]
 
 [[CVM](https://arxiv.org/abs/2209.08276)]ARNet: Compression Artifact Reduction for Point Cloud Attribute [[Pytorch](https://github.com/3dpcc/ARNet)]
 
