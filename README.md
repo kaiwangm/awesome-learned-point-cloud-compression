@@ -33,43 +33,43 @@
 
 ### 2023
 
-[[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Efficient_Hierarchical_Entropy_Model_for_Learned_Point_Cloud_Compression_CVPR_2023_paper.html)]Efficient Hierarchical Entropy Model for Learned Point Cloud Compression.
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Efficient_Hierarchical_Entropy_Model_for_Learned_Point_Cloud_Compression_CVPR_2023_paper.html)]Efficient Hierarchical Entropy Model for Learned Point Cloud Compression.
 
-[[TMM](https://doi.org/10.1109/TMM.2023.3331584)]Scalable Point Cloud Attribute Compression.
+- [[TMM](https://doi.org/10.1109/TMM.2023.3331584)]Scalable Point Cloud Attribute Compression.
 
-[[arxiv](https://doi.org/10.48550/arXiv.2303.06519)]Lossless Point Cloud Geometry and Attribute Compression Using a Learned Conditional Probability Model.
+- [[arxiv](https://doi.org/10.48550/arXiv.2303.06519)]Lossless Point Cloud Geometry and Attribute Compression Using a Learned Conditional Probability Model.
 
-[[ICASSP](https://ieeexplore.ieee.org/document/10095385)]Deep probabilistic model for lossless scalable point cloud attribute compression. [[Pytorch](https://github.com/Weafre/MNeT/)]
+- [[ICASSP](https://ieeexplore.ieee.org/document/10095385)]Deep probabilistic model for lossless scalable point cloud attribute compression. [[Pytorch](https://github.com/Weafre/MNeT/)]
 
-[[DCC](https://ieeexplore.ieee.org/abstract/document/10125514)]Lossless Point Cloud Attribute Compression Using Cross-scale, Cross-group, and Cross-color Prediction.
+- [[DCC](https://ieeexplore.ieee.org/abstract/document/10125514)]Lossless Point Cloud Attribute Compression Using Cross-scale, Cross-group, and Cross-color Prediction.
 
-[[ICASSP](https://ieeexplore.ieee.org/abstract/document/10096559)]Volumetric Attribute Compression for 3D Point Clouds using Feedforward Network with Geometric Attention.
+- [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10096559)]Volumetric Attribute Compression for 3D Point Clouds using Feedforward Network with Geometric Attention.
 
-[[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3613793)]Learning Dynamic Point Cloud Compression via Hierarchical Inter-frame Block.
+- [[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3613793)]Learning Dynamic Point Cloud Compression via Hierarchical Inter-frame Block.
 
-[[ICASSP](https://ieeexplore.ieee.org/document/10096294/)]Normalizing Flow Based Point Cloud Attribute Compression.
+- [[ICASSP](https://ieeexplore.ieee.org/document/10096294/)]Normalizing Flow Based Point Cloud Attribute Compression.
 
-[[APSIPA ASC](https://ieeexplore.ieee.org/document/10317255)]Sparse Tensor-based point cloud attribute compression using Augmented Normalizing Flows.
+- [[APSIPA ASC](https://ieeexplore.ieee.org/document/10317255)]Sparse Tensor-based point cloud attribute compression using Augmented Normalizing Flows.
 
-[[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612422)]PDE-based Progressive Prediction Framework for Attribute Compression of 3D Point Clouds. [[C++](https://github.com/Yanggoo/PDE-basedPointCloudCompression)]
+- [[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612422)]PDE-based Progressive Prediction Framework for Attribute Compression of 3D Point Clouds. [[C++](https://github.com/Yanggoo/PDE-basedPointCloudCompression)]
 
-[[TIP](https://ieeexplore.ieee.org/document/10314418)]GQE-Net: A Graph-based Quality Enhancement Network for Point Cloud Color Attribute. [[Pytorch](https://github.com/xjr998/GQE-Net)]
+- [[TIP](https://ieeexplore.ieee.org/document/10314418)]GQE-Net: A Graph-based Quality Enhancement Network for Point Cloud Color Attribute. [[Pytorch](https://github.com/xjr998/GQE-Net)]
 
-[[arixiv](https://arxiv.org/abs/2311.13539)]Learned Nonlinear Predictor for Critically Sampled 3D Point Cloud Attribute Compression.
+- [[arixiv](https://arxiv.org/abs/2311.13539)]Learned Nonlinear Predictor for Critically Sampled 3D Point Cloud Attribute Compression.
 
-[[TIP](https://ieeexplore.ieee.org/document/10234082)]Near-Lossless Compression of Point Cloud Attribute Using Quantization Parameter Cascading and Rate-Distortion Optimization.
+- [[TIP](https://ieeexplore.ieee.org/document/10234082)]Near-Lossless Compression of Point Cloud Attribute Using Quantization Parameter Cascading and Rate-Distortion Optimization.
 
-[[TPAMI](https://ieeexplore.ieee.org/document/10301698)]3-D Point Cloud Attribute Compression With -Laplacian Embedding Graph Dictionary Learning.
+- [[TPAMI](https://ieeexplore.ieee.org/document/10301698)]3-D Point Cloud Attribute Compression With -Laplacian Embedding Graph Dictionary Learning.
 
-[[TVCG](https://ieeexplore.ieee.org/document/10328911)]GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling. [[Pytorch](https://github.com/3dpcc/GRNet)]
+- [[TVCG](https://ieeexplore.ieee.org/document/10328911)]GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling. [[Pytorch](https://github.com/3dpcc/GRNet)]
 
-[[CVM](https://arxiv.org/abs/2209.08276)]ARNet: Compression Artifact Reduction for Point Cloud Attribute. [[Pytorch](https://github.com/3dpcc/ARNet)]
+- [[CVM](https://arxiv.org/abs/2209.08276)]ARNet: Compression Artifact Reduction for Point Cloud Attribute. [[Pytorch](https://github.com/3dpcc/ARNet)]
 
-[[TMM](https://ieeexplore.ieee.org/document/10313579)]ScalablePCAC: Scalable Point Cloud Attribute Compression.
+- [[TMM](https://ieeexplore.ieee.org/document/10313579)]ScalablePCAC: Scalable Point Cloud Attribute Compression.
 
-[[ACM MM](https://dl.acm.org/doi/10.1145/3581783.3613847)]YOGA: Yet Another Geometry-based Point Cloud Compressor. [[Pytorch](https://github.com/3dpcc/YOGAv1)]
+- [[ACM MM](https://dl.acm.org/doi/10.1145/3581783.3613847)]YOGA: Yet Another Geometry-based Point Cloud Compressor. [[Pytorch](https://github.com/3dpcc/YOGAv1)]
 
-[[unpublished](https://3dpcc.github.io/publication/YOGAv2/)]YOGAv2: A Layered Point Cloud Compressor.
+- [[unpublished](https://3dpcc.github.io/publication/YOGAv2/)]YOGAv2: A Layered Point Cloud Compressor.
 
 ### 2022
 
