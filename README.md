@@ -7,29 +7,29 @@
 
 ### 2024
 
-[[ICASSP](https://ieeexplore.ieee.org/abstract/document/10445884)]Volumetric 3D Point Cloud Attribute Compression: Learned polynomial bilateral filter for prediction.
+- [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10445884)]Volumetric 3D Point Cloud Attribute Compression: Learned polynomial bilateral filter for prediction.
 
-[[VCIP](https://ieeexplore.ieee.org/document/10402752)]Adaptive Entropy Coding of Graph Transform Coefficients for Point Cloud Attribute Compression.
+- [[VCIP](https://ieeexplore.ieee.org/document/10402752)]Adaptive Entropy Coding of Graph Transform Coefficients for Point Cloud Attribute Compression.
 
-[[arxiv](https://arxiv.org/abs/2404.07698)]Point Cloud Geometry Scalable Coding with a Quality-Conditioned Latents Probability Estimator.
+- [[arxiv](https://arxiv.org/abs/2404.07698)]Point Cloud Geometry Scalable Coding with a Quality-Conditioned Latents Probability Estimator.
 
-[[arxiv](https://arxiv.org/abs/2404.06936)]Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression. [[Pytorch](https://github.com/I2-Multimedia-Lab/PoLoPCAC)]
+- [[arxiv](https://arxiv.org/abs/2404.06936)]Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression. [[Pytorch](https://github.com/I2-Multimedia-Lab/PoLoPCAC)]
 
-[[MMVE](https://dl.acm.org/doi/abs/10.1145/3652212.3652217)]Progressive Coding for Deep Learning based Point Cloud Attribute Compression.
+- [[MMVE](https://dl.acm.org/doi/abs/10.1145/3652212.3652217)]Progressive Coding for Deep Learning based Point Cloud Attribute Compression.
 
-[[TMM](https://ieeexplore.ieee.org/abstract/document/10487884)]Multi-Space Point Geometry Compression with Progressive Relation-Aware Transformer.
+- [[TMM](https://ieeexplore.ieee.org/abstract/document/10487884)]Multi-Space Point Geometry Compression with Progressive Relation-Aware Transformer.
 
-[[ICASSP](https://ieeexplore.ieee.org/abstract/document/10448389)]Efficient Point Cloud Attribute Compression Using Rich Parallelizable Context Model.
+- [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10448389)]Efficient Point Cloud Attribute Compression Using Rich Parallelizable Context Model.
 
-[[ICASSP](https://ieeexplore.ieee.org/abstract/document/10445988)]Efficient Point Cloud Attribute Compression Framework using Attribute-Guided Graph Fourier Transform.
+- [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10445988)]Efficient Point Cloud Attribute Compression Framework using Attribute-Guided Graph Fourier Transform.
 
-[[ICASSP](https://ieeexplore.ieee.org/abstract/document/10447944)]ScanPCGC: Learning-Based Lossless Point Cloud Geometry Compression using Sequential Slice Representation Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry.
+- [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10447944)]ScanPCGC: Learning-Based Lossless Point Cloud Geometry Compression using Sequential Slice Representation Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry.
 
-[[IET](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ell2.13139)]Point cloud geometry compression with sparse cascaded residuals and sparse attention.
+- [[IET](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ell2.13139)]Point cloud geometry compression with sparse cascaded residuals and sparse attention.
 
-[[ICASSP](https://ieeexplore.ieee.org/document/10446596)]NeRI: Implicit Neural Representation of LiDAR Point Cloud Using Range Image Sequence. [[Pytorch](https://github.com/RuixiangXue/NeRI)]
+- [[ICASSP](https://ieeexplore.ieee.org/document/10446596)]NeRI: Implicit Neural Representation of LiDAR Point Cloud Using Range Image Sequence. [[Pytorch](https://github.com/RuixiangXue/NeRI)]
 
-[[TVCG](https://ieeexplore.ieee.org/document/10470357)]Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization.
+- [[TVCG](https://ieeexplore.ieee.org/document/10470357)]Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization.
 
 ### 2023
 
