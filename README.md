@@ -164,7 +164,7 @@
 - [[MM](https://ieeexplore.ieee.org/document/7405340)] Graph-based compression of dynamic 3D point cloud sequences.
 
 
-## Non-Deep Learning Methods and Library
+## Others
 
 - [[Draco](https://github.com/google/draco)] Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 
