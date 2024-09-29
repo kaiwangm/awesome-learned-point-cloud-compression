@@ -7,9 +7,15 @@
 
 ### 2024
 
+- [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682571)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry.
+
+- [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682566)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute.
+
+- [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10530090)] Content-aware Rate Control for Geometry-based Point Cloud Compression.
+
 - [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10445884)] Volumetric 3D Point Cloud Attribute Compression: Learned polynomial bilateral filter for prediction.
 
-- [[VCIP](https://ieeexplore.ieee.org/document/10402752)] Adaptive Entropy Coding of Graph Transform Coefficients for Point Cloud Attribute Compression.
+- [[VCIP](https://ieeexplore.ieee.org/abstract/document/10402752)] Adaptive Entropy Coding of Graph Transform Coefficients for Point Cloud Attribute Compression.
 
 - [[arxiv](https://arxiv.org/abs/2404.07698)] Point Cloud Geometry Scalable Coding with a Quality-Conditioned Latents Probability Estimator.
 
