@@ -36,6 +36,8 @@
 - [[ICASSP](https://ieeexplore.ieee.org/document/10446596)] NeRI: Implicit Neural Representation of LiDAR Point Cloud Using Range Image Sequence. [[Pytorch](https://github.com/RuixiangXue/NeRI)]
 
 - [[TVCG](https://ieeexplore.ieee.org/document/10470357)] Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization.
+  
+- [[ECCV](https://arxiv.org/abs/2408.02966)] Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement [[Pytorch](https://github.com/hxu160/CRCIR_for_PCGC)]
 
 ### 2023
 
