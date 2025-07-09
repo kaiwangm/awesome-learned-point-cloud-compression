@@ -5,6 +5,10 @@
 
 ## Papers
 
+### 2025
+
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/You_RENO_Real-Time_Neural_Compression_for_3D_LiDAR_Point_Clouds_CVPR_2025_paper.pdf)] RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds. [[Code](https://github.com/NJUVISION/RENO)]
+
 ### 2024
 
 - [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682571)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry.
