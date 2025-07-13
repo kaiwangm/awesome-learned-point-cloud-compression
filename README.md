@@ -11,9 +11,9 @@
 
 ### 2024
 
-- [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682571)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry.
+- [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682571)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry. [[Code](https://github.com/NJUVISION/Unicorn)]
 
-- [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682566)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute.
+- [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682566)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute. [[Code](https://github.com/NJUVISION/Unicorn)]
 
 - [[TCSVT](https://ieeexplore.ieee.org/abstract/document/10530090)] Content-aware Rate Control for Geometry-based Point Cloud Compression.
 
