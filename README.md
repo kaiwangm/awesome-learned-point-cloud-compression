@@ -41,7 +41,9 @@
 
 - [[TVCG](https://ieeexplore.ieee.org/document/10470357)] Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization.
   
-- [[ECCV](https://arxiv.org/abs/2408.02966)] Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement [[Code](https://github.com/hxu160/CRCIR_for_PCGC)]
+- [[ECCV](https://arxiv.org/abs/2408.02966)] Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement. [[Code](https://github.com/hxu160/CRCIR_for_PCGC)]
+
+- [[IJCAI](https://www.ijcai.org/proceedings/2024/595)] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes. [[Code](https://github.com/I2-Multimedia-Lab/Pointsoup)]
 
 ### 2023
 
