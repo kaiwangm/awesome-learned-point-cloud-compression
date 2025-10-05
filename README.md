@@ -9,6 +9,24 @@
 
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/You_RENO_Real-Time_Neural_Compression_for_3D_LiDAR_Point_Clouds_CVPR_2025_paper.pdf)] RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds. [[Code](https://github.com/NJUVISION/RENO)]
 
+- [[RA-L](https://ieeexplore.ieee.org/abstract/document/10876615)] H-PCC: Point Cloud Compression With Hybrid Mode Selection and Content Adaptive Down-Sampling.
+
+- [[TII](https://ieeexplore.ieee.org/abstract/document/10884627)] suLPCC: A Novel LiDAR Point Cloud Compression Framework for Scene Understanding Tasks.
+
+- [[TCSVT](https://ieeexplore.ieee.org/abstract/document/10938715)] GAEM: Graph-Driven Attention-Based Entropy Model for LiDAR Point Cloud Compression.
+
+- [[CVM](https://ieeexplore.ieee.org/abstract/document/11174068)] PCAC-GAN: A sparse-tensor-based generative adversarial network for 3D point cloud attribute compression.
+
+- [[TIP](https://ieeexplore.ieee.org/abstract/document/10989632)] Advances in Predictive RAHT for Geometric Point Cloud Compression.
+
+- [[TIP](https://ieeexplore.ieee.org/abstract/document/11164976)] Structure-Aware Generative Point Cloud Compression for Visual Perception.
+
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/33439)] AdaDPCC: Adaptive Rate Control and Rate-Distortion-Complexity Optimization for Dynamic Point Cloud Compression.
+
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/33387)] UniPCGC: Towards Practical Point Cloud Geometry Compression via an Efficient Unified Approach.
+
+- [[ACM TOMM](https://dl.acm.org/doi/abs/10.1145/3715916)] Compression Approaches for LiDAR Point Clouds and Beyond: A Survey.
+
 ### 2024
 
 - [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682571)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry. [[Code](https://github.com/NJUVISION/Unicorn)]
