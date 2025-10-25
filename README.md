@@ -7,6 +7,8 @@
 
 ### 2025
 
+- [[RA-L](https://ieeexplore.ieee.org/document/11206444)] Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression. [[Code](https://github.com/LTU-RAI/sga-dpcc.git)]
+
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/You_RENO_Real-Time_Neural_Compression_for_3D_LiDAR_Point_Clouds_CVPR_2025_paper.pdf)] RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds. [[Code](https://github.com/NJUVISION/RENO)]
 
 - [[RA-L](https://ieeexplore.ieee.org/abstract/document/10876615)] H-PCC: Point Cloud Compression With Hybrid Mode Selection and Content Adaptive Down-Sampling.
