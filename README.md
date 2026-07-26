@@ -35,6 +35,14 @@
 
 ### 2025
 
+- [[ICML](https://arxiv.org/abs/2505.09433)] SerLiC: Efficient LiDAR Reflectance Compression via Scanning Serialization.
+
+- [[arxiv](https://arxiv.org/abs/2504.00481)] Hierarchical Attention Networks for Lossless Point Cloud Attribute Compression.
+
+- [[arxiv](https://arxiv.org/abs/2504.14240)] ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision.
+
+- [[arxiv](https://arxiv.org/abs/2502.17939)] Deep-JGAC: End-to-End Deep Joint Geometry and Attribute Compression for Dense Colored Point Clouds.
+
 - [[RA-L](https://ieeexplore.ieee.org/document/11206444)] Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression. [[Code](https://github.com/LTU-RAI/sga-dpcc.git)]
 
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/You_RENO_Real-Time_Neural_Compression_for_3D_LiDAR_Point_Clouds_CVPR_2025_paper.pdf)] RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds. [[Code](https://github.com/NJUVISION/RENO)]
