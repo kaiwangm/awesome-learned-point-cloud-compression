@@ -5,6 +5,34 @@
 
 ## Papers
 
+### 2026
+
+- [[arxiv](https://arxiv.org/abs/2605.18006)] Inter-LPCM: Learning-based Inter-Frame Predictive Coding for LiDAR Point Cloud Compression. [[Code](https://github.com/SDUChangSun/Inter-LPCM)]
+
+- [[arxiv](https://arxiv.org/abs/2605.01320)] PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression.
+
+- [[ICIP](https://arxiv.org/abs/2604.28045)] TAFA-GSGC: Group-wise Scalable Point Cloud Geometry Compression with Progressive Residual Refinement.
+
+- [[arxiv](https://arxiv.org/abs/2604.04737)] LEAN-3D: Low-latency Hierarchical Point Cloud Codec for Mobile 3D Streaming.
+
+- [[arxiv](https://arxiv.org/abs/2603.28095)] Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective.
+
+- [[TIP](https://arxiv.org/abs/2603.25260)] Towards Practical Lossless Neural Compression for LiDAR Point Clouds. [[Code](https://github.com/pengpeng-yu/FastPCC)]
+
+- [[arxiv](https://arxiv.org/abs/2603.23162)] LiZIP: An Auto-Regressive Compression Framework for LiDAR Point Clouds.
+
+- [[arxiv](https://arxiv.org/abs/2602.21662)] HybridINR-PCGC: Hybrid Lossless Point Cloud Geometry Compression Bridging Pretrained Model and Implicit Neural Representation.
+
+- [[arxiv](https://arxiv.org/abs/2602.00186)] SurfelSoup: Learned Point Cloud Geometry Compression With a Probablistic SurfelTree Representation.
+
+- [[AAAI](https://arxiv.org/abs/2601.12255)] DeepRAHT: Learning Predictive RAHT for Point Cloud Attribute Compression. [[Code](https://github.com/zb12138/DeepRAHT)]
+
+- [[ACM TOMM](https://arxiv.org/abs/2601.12261)] DALD-PCAC: Density-Adaptive Learning Descriptor for Point Cloud Lossless Attribute Compression. [[Code](https://github.com/zb12138/DALD_PCAC)]
+
+- [[WACV](https://arxiv.org/abs/2512.22463)] MEGA-PCC: A Mamba-based Efficient Approach for Joint Geometry and Attribute Point Cloud Compression.
+
+- [[CVPR](https://arxiv.org/abs/2510.20331)] AnyPcc: Compressing Any Point Cloud with a Single Universal Model.
+
 ### 2025
 
 - [[RA-L](https://ieeexplore.ieee.org/document/11206444)] Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression. [[Code](https://github.com/LTU-RAI/sga-dpcc.git)]
