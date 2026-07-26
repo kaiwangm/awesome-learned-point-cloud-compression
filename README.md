@@ -67,6 +67,42 @@
 
 ### 2024
 
+- [[arxiv](https://arxiv.org/abs/2411.14501)] U-Motion: Learned Point Cloud Video Compression with U-Structured Temporal Context Generation.
+
+- [[arxiv](https://arxiv.org/abs/2411.07899)] Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer.
+
+- [[arxiv](https://arxiv.org/abs/2410.17823)] Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds. [[Code](https://github.com/I2-Multimedia-Lab/Att2CPC)]
+
+- [[arxiv](https://arxiv.org/abs/2409.12724)] PVContext: Hybrid Context Model for Point Cloud Compression.
+
+- [[ICIP](https://arxiv.org/abs/2408.10665)] End-to-end Learned Lossy Dynamic Point Cloud Attribute Compression.
+
+- [[arxiv](https://arxiv.org/abs/2408.10543)] Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds.
+
+- [[arxiv](https://arxiv.org/abs/2408.08682)] LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression.
+
+- [[arxiv](https://arxiv.org/abs/2408.00599)] Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control.
+
+- [[arxiv](https://arxiv.org/abs/2406.05915)] Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering.
+
+- [[arxiv](https://arxiv.org/abs/2406.00791)] Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor.
+
+- [[arxiv](https://arxiv.org/abs/2405.11493)] Point Cloud Compression with Implicit Neural Representations: A Unified Framework.
+
+- [[arxiv](https://arxiv.org/abs/2403.08236)] Point Cloud Compression via Constrained Optimal Transport. [[Code](https://github.com/cognaclee/PCC-COT)]
+
+- [[PCS](https://arxiv.org/abs/2402.12532)] Scalable Human-Machine Point Cloud Compression.
+
+- [[3DV](https://arxiv.org/abs/2402.07243)] PIVOT-Net: Heterogeneous Point-Voxel-Tree-based Framework for Point Cloud Compression.
+
+- [[AAAI](https://arxiv.org/abs/2308.12535)] SCP: Spherical-Coordinate-based Learned Point Cloud Compression.
+
+- [[TCSVT](https://arxiv.org/abs/2305.01309)] Geometric Prior Based Deep Human Point Cloud Geometry Compression.
+
+- [[ICASSP](https://arxiv.org/abs/2211.10916)] ECM-OPCC: Efficient Context Model for Octree-based Point Cloud Compression.
+
+- [[TIP](https://arxiv.org/abs/2207.12554)] Inter-Frame Compression for Dynamic Point Cloud Geometry Coding.
+
 - [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682571)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry. [[Code](https://github.com/NJUVISION/Unicorn)]
 
 - [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10682566)] A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute. [[Code](https://github.com/NJUVISION/Unicorn)]
