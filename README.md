@@ -187,6 +187,8 @@
 
 ### 2022
 
+- [[TMM](https://ieeexplore.ieee.org/document/9447226)] Deep-PCAC: An End-to-End Deep Lossy Compression Framework for Point Cloud Attributes. [[Code](https://github.com/xhsheng-ustc/Deep-PCAC)]
+
 - [[PCS](https://arxiv.org/abs/2212.05589)] Learning Neural Volumetric Field for Point Cloud Geometry Compression.
 
 - [[IJCAI](https://arxiv.org/abs/2205.01135)] D-DPCC: Deep Dynamic Point Cloud Compression via 3D Motion Prediction.
