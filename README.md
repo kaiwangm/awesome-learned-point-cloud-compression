@@ -139,6 +139,14 @@
 
 ### 2023
 
+- [[MMSP](https://arxiv.org/abs/2308.05959)] Learned Point Cloud Compression for Classification.
+
+- [[ICASSP](https://arxiv.org/abs/2303.04027)] BIRD-PCC: Bi-directional Range Image-based Deep LiDAR Point Cloud Compression.
+
+- [[arxiv](https://arxiv.org/abs/2301.12165)] Dynamic Point Cloud Geometry Compression Using Multiscale Inter Conditional Coding.
+
+- [[TCSVT](https://arxiv.org/abs/2209.12512)] Multiscale Latent-Guided Entropy Model for LiDAR Point Cloud Compression.
+
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Efficient_Hierarchical_Entropy_Model_for_Learned_Point_Cloud_Compression_CVPR_2023_paper.html)] Efficient Hierarchical Entropy Model for Learned Point Cloud Compression.
 
 - [[TMM](https://doi.org/10.1109/TMM.2023.3331584)] Scalable Point Cloud Attribute Compression.
