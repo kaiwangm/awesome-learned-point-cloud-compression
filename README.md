@@ -187,6 +187,10 @@
 
 ### 2022
 
+- [[PCS](https://arxiv.org/abs/2212.05589)] Learning Neural Volumetric Field for Point Cloud Geometry Compression.
+
+- [[IJCAI](https://arxiv.org/abs/2205.01135)] D-DPCC: Deep Dynamic Point Cloud Compression via 3D Motion Prediction.
+
 - [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9852261)] Isolated Points Prediction via Deep Neural Network on Point Cloud Lossless Geometry Compression.
 
 - [[ARXIV](https://arxiv.org/abs/2208.12573)] Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention.
