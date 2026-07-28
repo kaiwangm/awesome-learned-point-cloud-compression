@@ -217,6 +217,12 @@
 
 ### 2021
 
+- [[arxiv](https://arxiv.org/abs/2111.10633)] Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression.
+
+- [[MMSP](https://arxiv.org/abs/2106.06482)] Neural Network Modeling of Probabilities for Coding the Octree Representation of Point Clouds.
+
+- [[arxiv](https://arxiv.org/abs/2106.01504)] DeepCompress: Efficient Point Cloud Geometry Compression.
+
 - [[MM Asia](https://dl.acm.org/doi/abs/10.1145/3469877.3490611)] Patch-Based Deep Autoencoder for Point Cloud Geometry Compression. [[Code](https://github.com/I2-Multimedia-Lab/PCC_Patch)]
 
 - [[TCSVT](https://ieeexplore.ieee.org/document/9321375)] Lossy Point Cloud Geometry Compression via End-to-End Learning.
