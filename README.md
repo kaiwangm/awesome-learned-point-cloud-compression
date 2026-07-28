@@ -19,7 +19,7 @@
 
 - [[TIP](https://arxiv.org/abs/2603.25260)] Towards Practical Lossless Neural Compression for LiDAR Point Clouds. [[Code](https://github.com/pengpeng-yu/FastPCC)]
 
-- [[arxiv](https://arxiv.org/abs/2603.23162)] LiZIP: An Auto-Regressive Compression Framework for LiDAR Point Clouds.
+- [[arxiv](https://arxiv.org/abs/2603.23162)] LiZIP: An Auto-Regressive Compression Framework for LiDAR Point Clouds. [[Code](https://github.com/HWUDLabAIRoboticsResearch/LiZIP)]
 
 - [[arxiv](https://arxiv.org/abs/2602.21662)] HybridINR-PCGC: Hybrid Lossless Point Cloud Geometry Compression Bridging Pretrained Model and Implicit Neural Representation.
 
@@ -31,17 +31,17 @@
 
 - [[WACV](https://arxiv.org/abs/2512.22463)] MEGA-PCC: A Mamba-based Efficient Approach for Joint Geometry and Attribute Point Cloud Compression.
 
-- [[CVPR](https://arxiv.org/abs/2510.20331)] AnyPcc: Compressing Any Point Cloud with a Single Universal Model.
+- [[CVPR](https://arxiv.org/abs/2510.20331)] AnyPcc: Compressing Any Point Cloud with a Single Universal Model. [[Code](https://github.com/Wangkkklll/AnyPcc)]
 
 ### 2025
 
-- [[ICML](https://arxiv.org/abs/2505.09433)] SerLiC: Efficient LiDAR Reflectance Compression via Scanning Serialization.
+- [[ICML](https://arxiv.org/abs/2505.09433)] SerLiC: Efficient LiDAR Reflectance Compression via Scanning Serialization. [[Code](https://github.com/3dpcc/SerLiC)]
 
 - [[arxiv](https://arxiv.org/abs/2504.00481)] Hierarchical Attention Networks for Lossless Point Cloud Attribute Compression.
 
 - [[arxiv](https://arxiv.org/abs/2504.14240)] ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision.
 
-- [[arxiv](https://arxiv.org/abs/2502.17939)] Deep-JGAC: End-to-End Deep Joint Geometry and Attribute Compression for Dense Colored Point Clouds.
+- [[arxiv](https://arxiv.org/abs/2502.17939)] Deep-JGAC: End-to-End Deep Joint Geometry and Attribute Compression for Dense Colored Point Clouds. [[Code](https://github.com/ttlzfhy/Deep-JGAC)]
 
 - [[RA-L](https://ieeexplore.ieee.org/document/11206444)] Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression. [[Code](https://github.com/LTU-RAI/sga-dpcc.git)]
 
@@ -61,7 +61,7 @@
 
 - [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/33439)] AdaDPCC: Adaptive Rate Control and Rate-Distortion-Complexity Optimization for Dynamic Point Cloud Compression.
 
-- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/33387)] UniPCGC: Towards Practical Point Cloud Geometry Compression via an Efficient Unified Approach.
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/33387)] UniPCGC: Towards Practical Point Cloud Geometry Compression via an Efficient Unified Approach. [[Code](https://github.com/Wangkkklll/UniPCGC)]
 
 - [[ACM TOMM](https://dl.acm.org/doi/abs/10.1145/3715916)] Compression Approaches for LiDAR Point Clouds and Beyond: A Survey.
 
@@ -95,7 +95,7 @@
 
 - [[3DV](https://arxiv.org/abs/2402.07243)] PIVOT-Net: Heterogeneous Point-Voxel-Tree-based Framework for Point Cloud Compression.
 
-- [[AAAI](https://arxiv.org/abs/2308.12535)] SCP: Spherical-Coordinate-based Learned Point Cloud Compression.
+- [[AAAI](https://arxiv.org/abs/2308.12535)] SCP: Spherical-Coordinate-based Learned Point Cloud Compression. [[Code](https://github.com/luoao-kddi/SCP)]
 
 - [[TCSVT](https://arxiv.org/abs/2305.01309)] Geometric Prior Based Deep Human Point Cloud Geometry Compression.
 
@@ -191,7 +191,7 @@
 
 - [[PCS](https://arxiv.org/abs/2212.05589)] Learning Neural Volumetric Field for Point Cloud Geometry Compression.
 
-- [[IJCAI](https://arxiv.org/abs/2205.01135)] D-DPCC: Deep Dynamic Point Cloud Compression via 3D Motion Prediction.
+- [[IJCAI](https://arxiv.org/abs/2205.01135)] D-DPCC: Deep Dynamic Point Cloud Compression via 3D Motion Prediction. [[Code](https://github.com/ttlzfhy/D-DPCC)]
 
 - [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9852261)] Isolated Points Prediction via Deep Neural Network on Point Cloud Lossless Geometry Compression.
 
@@ -221,7 +221,7 @@
 
 - [[MMSP](https://arxiv.org/abs/2106.06482)] Neural Network Modeling of Probabilities for Coding the Octree Representation of Point Clouds.
 
-- [[arxiv](https://arxiv.org/abs/2106.01504)] DeepCompress: Efficient Point Cloud Geometry Compression.
+- [[arxiv](https://arxiv.org/abs/2106.01504)] DeepCompress: Efficient Point Cloud Geometry Compression. [[Code](https://github.com/pmclSF/DeepCompress)]
 
 - [[MM Asia](https://dl.acm.org/doi/abs/10.1145/3469877.3490611)] Patch-Based Deep Autoencoder for Point Cloud Geometry Compression. [[Code](https://github.com/I2-Multimedia-Lab/PCC_Patch)]
 
@@ -241,7 +241,7 @@
 
 - [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9496667)] Lossless Coding of Point Cloud Geometry using a Deep Generative Model. [[Code](https://github.com/Weafre/VoxelDNN_v2)]
   
-- [[ICIP](https://ieeexplore.ieee.org/document/9506631)] Point Cloud Geometry Compression Via Neural Graph Sampling.
+- [[ICIP](https://ieeexplore.ieee.org/document/9506631)] Point Cloud Geometry Compression Via Neural Graph Sampling. [[Code](https://github.com/linyaog/point_based_pcgc)]
 
 ### 2020
 
