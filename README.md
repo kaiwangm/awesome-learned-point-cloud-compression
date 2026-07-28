@@ -245,6 +245,8 @@
 
 ### 2020
 
+- [[arxiv](https://arxiv.org/abs/2012.08143)] NeuralQAAD: An Efficient Differentiable Framework for High Resolution Point Cloud Compression.
+
 - [[ICME](https://ieeexplore.ieee.org/document/9102866)] Lossy Geometry Compression Of 3d Point Cloud Data Via An Adaptive Octree-Guided Network. [[Code](https://github.com/wxz1996/pc_compress)]
 
 - [[MMSP](https://ieeexplore.ieee.org/document/9287077)] Improved Deep Point Cloud Geometry Compression. [[Code](https://github.com/mauriceqch/pcc_geo_cnn_v2)]
